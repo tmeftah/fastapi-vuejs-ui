@@ -1,12 +1,11 @@
 <template>
-  <router-view />
+  <v-footer app> footer </v-footer>
 </template>
 
 <script>
 export default {
-  name: "App",
+  name: "AppFooter",
 };
 </script>
 
 <style></style>
-,procince:"Landau"
